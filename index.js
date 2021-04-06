@@ -9,3 +9,9 @@ greeter(greeting);
 function adder(num1, num2){
     return num1 + num2
 }
+
+const me = {
+    name: "Adam",
+    favColor: "Blue",
+    favFruit: "Pineapple"
+}
